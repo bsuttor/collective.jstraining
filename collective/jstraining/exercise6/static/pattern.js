@@ -1,4 +1,4 @@
-define('exercise6',[
+define([
   'jquery',
   'mockup-patterns-base',
 ], function($, Base) {
@@ -18,12 +18,3 @@ define('exercise6',[
 
   return Pattern;
 });
-
-require([
-  'exercise6'
-], function() {
-  'use strict';
-});
-
-define("/home/bsuttor/Projects/training/buildout/src-mrd/collective.jstraining/collective/jstraining/exercise6/static/bundle.js", function(){});
-
