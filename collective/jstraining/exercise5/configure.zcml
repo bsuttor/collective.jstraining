@@ -15,4 +15,5 @@
 
   <plone:static directory="theme" name="exercise5" type="theme" />
 
+
 </configure>
